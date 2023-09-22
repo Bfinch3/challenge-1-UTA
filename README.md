@@ -1,4 +1,4 @@
-* # challenge-1-UTA
+* # Challenge-1-UTA
 * challenge 1
 * Created a codebase that follows accessibility standards that make the site optimized for search engines.
 * When the source code is viewed you will find semantic HTML elements header, section, aside and footer.
