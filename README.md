@@ -6,3 +6,5 @@
 * When viewed, the heading attributes fall in sequential order, (h1,h2,h3)
 * When viewed, the title elemment is a concise, descriptive ttitle. Horiseon Social Solutions Inc.
 * Verified ALT discriptions worked by using NVDA software.
+# License
+MIT License, Please refer to the LICENSE in the repo.
